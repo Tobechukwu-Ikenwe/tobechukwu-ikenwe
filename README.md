@@ -8,10 +8,10 @@ I love digging into systems at a low level to understand how they work internall
 
 # My Philosophy
 
-I’m a firm believer in the Feynman Technique: to truly understand a concept, you should be able to explain it to someone with little prior knowledge. I use analogies and clear comments in my code so it’s understandable at first glance.
+- I’m a firm believer in the Feynman Technique: to truly understand a concept, you should be able to explain it to someone with little prior knowledge. I use analogies and clear comments in my code so it’s understandable at first glance.
 
-I enjoy going under the hood of systems, exploring how components communicate when I’m writing code, and uncovering the mechanics behind the scenes.
+- I enjoy going under the hood of systems, exploring how components communicate when I’m writing code, and uncovering the mechanics behind the scenes.
 
-I focus on real-world problems, looking for areas that make people uncomfortable and trying to understand why. By understanding the root of a problem, I can design solutions that actually make a difference.
+- I focus on real-world problems, looking for areas that make people uncomfortable and trying to understand why. By understanding the root of a problem, I can design solutions that actually make a difference.
 
-I’m a lifelong learner, often diving into topics beyond programming, including biology and chemistry, because cross-disciplinary knowledge often reveals innovative solutions. My ultimate goal is to improve the standard of living through thoughtful problem-solving.
+- I’m a lifelong learner, often diving into topics beyond programming, including biology and chemistry, because cross-disciplinary knowledge often reveals innovative solutions. My ultimate goal is to improve the standard of living through thoughtful problem-solving.
